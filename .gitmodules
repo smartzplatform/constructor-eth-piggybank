@@ -1,0 +1,3 @@
+[submodule "submodules/smartzplatform/solidity"]
+	path = submodules/smartzplatform/solidity
+	url = https://github.com/smartzplatform/solidity.git
